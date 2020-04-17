@@ -9,6 +9,6 @@ Here you will find the archive of our Meeting Notes as well as any artifacts tha
 ## Table of Contents
 
 - [Meeting Notes] (https://github.com/testground/pm/tree/master/_meeting-notes)(https://github.com/testground/pm/tree/master/_meeting-notes)
-- [Meeting Notes](https://github.com/ipfs/testground/blob/master/_meeting-notes/2020-04-08.md)
+- [Meeting Notes](https://github.com/testground/pm/tree/master/_meeting-notes)
 - Other Artifacts
 
