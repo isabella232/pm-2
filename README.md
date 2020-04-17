@@ -1,7 +1,7 @@
 # pm
-project management of Testground
+Testground Project Management
 
-## Welcom to PM section of Testground. 
+## Welcome to PM section of Testground. 
 
 Here you will find the archive of our Meeting Notes as well as any artifacts that are produced and sharable
 
