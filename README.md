@@ -8,6 +8,6 @@ Here you will find the archive of our Meeting Notes as well as any artifacts tha
 
 ## Table of Contents
 
-- [Meeting Notes] (https://github.com/testground/pm/tree/master/_meeting-notes)
+- [Meeting Notes](https://github.com/testground/pm/tree/master/_meeting-notes)(https://github.com/testground/pm/tree/master/_meeting-notes)
 - Other Artifacts
 
