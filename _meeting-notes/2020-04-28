@@ -1,0 +1,157 @@
+Testground Weekly (45 mins)
+===
+
+###### tags: `IPFS` `Testing`
+
+:::info
+- **Host:** Rob Matarangas
+- **Notetaker:** @Rob.Matarangas
+- **Location:** https://protocol.zoom.us/j/181391682
+- **Date:** April 28, 2020 4:00 PM (UTC)
+- **Participants:** (please add)
+    - @raulk
+    - @RobM
+    - @cory
+    - @anton
+    - @
+- **Agenda**
+  1. Sprint Update `00min`- TBD
+  2. Identify blockers / Answer Questions `30min`
+  3. This week's planning `15min`
+- **Reference:** 
+  - [Last week meeting minute 2020-04-08](https://github.com/ipfs/testground/blob/master/_meeting-notes/2020-04-08.md) April 21 sync used as Sprint Retrospective
+  - [HOW_WE_WORK.md#weekly-sync](https://github.com/ipfs/testground/blob/master/docs/HOW_WE_WORK.md#weekly-sync)
+  - [KanBan Board](https://app.zenhub.com/workspaces/testground-agile-5e55a12c82aac7fef146176e/board)
+  - [Testing Infra Design](https://github.com/ipfs/testground/blob/master/docs/SPEC.md)
+  - [Testing Inventory](https://github.com/ipfs/testground/blob/master/docs/test-inventory.md)
+  - [Testing Improvement Tracker](https://docs.google.com/spreadsheets/d/1xyqyGUF-oe3x9ln88YonVeOMWWdknik74lVgL_3dBY8/edit#gid=0)
+
+:::
+
+## :mega: Update (Done, Shipped, Made Progress)
+> To be reviewed Async
+
+- ==@raulk==
+  - Got done
+    - tbd
+    - 
+  - In progress
+    - tbd
+    - 
+  - Didn't get done (and had commited to last week)
+    - N/A.
+  - Blocked
+    - N/A.
+
+- ==@nonsense==
+  - Got done
+      - tbd
+           
+  - In progress
+      - tbd
+      
+  - Didn't get done 
+      - N/A.
+  - Blocked
+      - N/A.
+
+- ==@hacdias==
+  - OOO - Exams + School 
+
+- ==@cory==
+    - Got done
+        - tbd 
+        
+    
+    - In Progress
+        - tbd
+    - Didn't get done
+        - tbd
+    - Questions:
+        - tbd
+            
+- ==@Hugo==
+    - Got done
+        - tbd
+    - In Progress
+        - tbd
+    - Didn't get done
+        - tbd
+
+
+     
+
+## :question: Questions (Blockers, Technical Design needs)
+
+>
+
+
+
+
+
+
+- Please add any Design Review Requests here
+- Need to look into Prometheus and its storage config
+    - track usage? Need to fix prior to Friday Code Freeze
+    - AI- Cory and Anton to discuss in tech review
+    - issue already exists. Anton to put "in progress"
+- Need to look into fault tolerances, set standards into the design
+    - Stages?
+    - take one testplan (e.g.pubsub) and measure and annotate the failures for tolerance or improvement. 
+- 
+    
+## Presentations
+- ...
+
+## :dart: Next
+
+-  Timing of Sprint
+    -  Feature Freeze totday
+-Code Freeze for May 1st. Launch possible May 6 or7?
+    - Will present at Ready Layer One on 6th
+-May 4th Temp Check-Confirmed
+-Release process to start after Hardening complete- @raul to be Release Mgr
+-Features from Planning Meeting 85% complete, still to complete:
+-  @Nonsense
+    -  https://github.com/testground/testground/issues/875
+https://github.com/testground/testground/issues/599
+    Questions about perf, but MVP is achieved in test. Will be closed as Done. 
+    -- AI -Need an SLO document-@nonsense & @cory
+    -- notes: this is about characterising the workloads we have taken testground to the extreme with, i.e. "we have tested testground under these conditions; each test plan is a world of its own, so what applies to us, might not apply to us."
+https://github.com/testground/testground/pull/833
+-  @Cory 
+    -  https://github.com/testground/testground/pull/869
+        -  Use templates and merge today
+    -  https://github.com/testground/testground/issues/879 - closed
+-  review sprint v0.5 progress review and priorites
+    
+    -  @raul, Any re-prioritizations, re-assignments, concerns ?
+    -  Product Roadmap- v0.5 provides foundational core. Going forward we want to build features rather than work on core. Building on these feature themes
+        -  Shared Cluster-Anton primary
+        -  Github Automation/Integration-Raul primary 
+        -  Comparative Matix/dashboards- 
+
+### Top 3 things to get done this week
+
+- Features, Features Features prior to May 1st Freeze
+- Docs, Docs, Docs
+    - Creating and depositing all Launch docs in progress, ask for direction if needed. But try for 1 hour a day dedicated to docs
+
+
+### Assignments
+
+See ZenHub Kanban Board for granular details: (https://app.zenhub.com/workspaces/testground-5db6a5bf7ca61c00014e2961/board?milestones=Testground%20v0.2%232020-02-14&repos=197244214).
+
+- ==@Robm==
+  - ... facilitate productivity of team with focus on delivering Viable Testrgound Product in Q2
+- ==@raulk==
+  - Defining the roadmap and plan for v1.0.
+- ==@nonsense==
+  - ..Sprint progress
+- ==@cory==
+  - ..Sprint progess
+- ==@Hugo==
+  - ..JS Browser spec document with Raul
+:::info
+When the meeting is over, push notes to https://github.com/testground/pm/tree/master/_meeting-notes and verify that ZenHub is up to date https://app.zenhub.com/workspaces/testground-agile-5e55a12c82aac7fef146176e/board
+:::
