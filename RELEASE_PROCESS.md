@@ -17,6 +17,13 @@ Optionally release the Testground Go SDK
 - [ ] Tag the `testground/infra` `master` branch with version (for example `v0.5.2`)
 - [ ] Update image version back to `edge` and commit to `master`
 
+
+## `docs.testground.ai`
+- [ ] Rename `master` variant to `new stable release vX.Y.Z` at https://app.gitbook.com/@protocol-labs/s/testground/
+- [ ] Copy `new stable release vX.Y.Z` to a new `master` variant
+- [ ] Make the `new stable release vX.Y.Z` default variant
+- [ ] Optionally remove variants for previous releases to vX.Y.Z
+
 ---
 
 ## Git branching guidelines during release
